@@ -12,6 +12,8 @@
 /*/vc2013/ipch
 /*/vc2013/Release
 *.opensdf
+*.VC.db
+*.VC.VC.opendb
 *.sdf
 *.suo
 *.user
